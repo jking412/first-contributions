@@ -40,7 +40,7 @@ Choose the directory on your machine you would like to clone first-contributions
 
 Now you have copied the contents of the first-contributions repository in github to your computer.
 
-## Create a branch
+## Create a branchs
 
 Now create a branch by clicking on the branch icon at the top left:
 
